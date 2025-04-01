@@ -4,3 +4,7 @@ GET {{BlogApi_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+
+GET https://localhost:7058/api/tags
+Accept: application/json
